@@ -1,0 +1,24 @@
+#phrase1 {
+    color:  green;
+}
+
+#left {
+    float: left;
+    width: 20%;
+    height: 100%;
+    background: #EBE0C5;
+}
+
+#center {
+    float: left;
+    width: 60%;
+    height: 100%;
+    background: #BBE1C4;
+}
+
+#right {
+    float: left;
+    width: 20%;
+    height: 100%;
+    background: #ADD0D9;
+}
